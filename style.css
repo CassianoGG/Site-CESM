@@ -19,9 +19,18 @@ body{
 }
 
 .lista-cabecalho{
+
     display:inline-block;
     padding: 30px;
     color: #9BBBFB;
     font-size: 15px;
     font-weight: bolder;
+}
+
+.escola {
+    background-image: linear-gradient();
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 24px 0;
 }
