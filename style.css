@@ -47,3 +47,10 @@ body{
     width: 95%;
     margin: 42px;
 }
+
+.escola-texto {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 20px;
+}
