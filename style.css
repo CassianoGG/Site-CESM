@@ -33,12 +33,14 @@ body{
     justify-content: left;
     align-items: center;
     padding: 24px 0;
+    background-color: #9BBBFB;
 }
 
 .texto-lista {
 
     display: inline-block;
     list-style-type: none;
+    font-size: 21px;
 }
 
 .escola-imagem {
