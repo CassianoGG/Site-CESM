@@ -37,13 +37,13 @@ body{
 
 .texto-lista {
 
-    display: inline-block;
+    display: inline-flex;
     list-style-type: none;
     font-size: 21px;
 }
 
 .escola-imagem {
 
-    width: 100%;
-    margin: 40px;
+    width: 90%;
+    margin: 42px;
 }
