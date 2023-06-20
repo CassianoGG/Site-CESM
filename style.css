@@ -86,5 +86,7 @@ body{
 }
 
 .rodape{
-    
+    font-size: 40px;
+    text-align: center;
+    background-color: #414141;
 }
